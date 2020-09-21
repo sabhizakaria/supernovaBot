@@ -1,0 +1,15 @@
+{
+  "name": "greeter-bot",
+  "version": "3.0.0",
+  "description": "My First Discord Bot",
+  "main": "bot.js",
+  "author": "Sabhi zakaria",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "winston": "3.3.3",
+    "ytdl-core": "^3.2.2"
+  }
+}
